@@ -198,4 +198,8 @@
   
   <script setup>
   
+    definePageMeta({
+        layout: 'empty'
+    })
+
   </script>
