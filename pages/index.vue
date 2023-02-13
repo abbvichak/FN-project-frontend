@@ -1,4 +1,9 @@
 <template>
-    <h1>hej</h1>
-    <NuxtLink to="/LoginPage" class="">gå till login</NuxtLink>
+    <div>
+        <h1>Emil är en gahba</h1>
+    </div>
 </template>
+
+<script setup>
+
+</script>
