@@ -23,7 +23,7 @@
                 <ul class="sm:flex space-x-4 hidden items-center">
                   <li><NuxtLink to="/" class="text-gray-700 hover:text-indigo-600 text-md ">Home</NuxtLink></li>
                   <li><NuxtLink to="About" class="text-gray-700 hover:text-indigo-600 text-md ">About</NuxtLink></li>
-                  <li><NuxtLink to="/LocationList" class="text-gray-700 hover:text-indigo-600 text-md ">Locations</NuxtLink></li>
+                  <li><NuxtLink to="/Countries" class="text-gray-700 hover:text-indigo-600 text-md ">Locations</NuxtLink></li>
                   <li><NuxtLink to="/Contact" class="text-gray-700 hover:text-indigo-600 text-md ">Contact</NuxtLink></li>
                 </ul>
             
