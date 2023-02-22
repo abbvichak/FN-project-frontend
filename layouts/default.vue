@@ -21,12 +21,12 @@
                 <spnan class="h-1 rounded-full block w-8 mb-1 bg-gradient-to-tr from-indigo-600 to-green-600"></spnan>
               </div>
               <div class="flex items-center">
-           
-                <ul class="sm:flex space-x-4 hidden items-center">
-                  <li><NuxtLink to="/" class="text-gray-700 hover:text-indigo-600 text-md ">Home</NuxtLink></li>
-                  <li><NuxtLink to="About" class="text-gray-700 hover:text-indigo-600 text-md ">About</NuxtLink></li>
+            
+                <ul class="sm:flex md:flex space-x-4 hidden items-center">
+                  <li><NuxtLink to="/" class="text-gray-700 hover:text-indigo-600 text-md ">Home</NuxtLink></li>  
                   <li><NuxtLink to="/Countries" class="text-gray-700 hover:text-indigo-600 text-md ">Locations</NuxtLink></li>
-                  <li><NuxtLink to="/Contact" class="text-gray-700 hover:text-indigo-600 text-md ">Contact</NuxtLink></li>
+                  <li><NuxtLink to="About" class="text-gray-700 hover:text-indigo-600 text-md ">About</NuxtLink></li>
+
                 </ul>
             
                 <div class="md:flex items-center hidden space-x-4 ml-8 lg:ml-12">
