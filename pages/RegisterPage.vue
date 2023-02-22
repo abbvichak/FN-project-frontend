@@ -47,8 +47,12 @@
                   </svg>
                 </span>
               </button>
+
             </div>
           </form>
+          <NuxtLink to="/" class="flex justify-center items-center mt-8 font-bold">
+            Go back to home page
+          </NuxtLink>
         </div>
         <div class="flex justify-center items-center mt-6">
           <a href="#" target="_blank" class="inline-flex items-center font-bold text-blue-500 hover:text-blue-700 text-xs text-center">

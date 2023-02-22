@@ -184,10 +184,10 @@
               >
               <span class="ml-2"
                   >You don't have an account?
-                  <a
-                  href="#"
+                  <NuxtLink
+                  to="/RegisterPage"
                   class="text-xl ml-2 text-blue-600 font-semibold"
-                  >Register now</a
+                  >Register now</NuxtLink
                   ></span
               >
               </a>
@@ -198,4 +198,8 @@
   
   <script setup>
   
+    definePageMeta({
+        layout: 'empty'
+    })
+
   </script>
